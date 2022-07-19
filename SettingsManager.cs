@@ -176,5 +176,14 @@ namespace SettingsManager
             sw.Write(newSettings);
             sw.Close();
         }
+
+        /// <summary>
+        /// Set where the settings are saved
+        /// </summary>
+        /// <param name="path">The path where the .settings file is</param>
+        public static void SetSettingsPath(string path)
+        {
+            SettingsPath = path;
+        }
     }
 }
