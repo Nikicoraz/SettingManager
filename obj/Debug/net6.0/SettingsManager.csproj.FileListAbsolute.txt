@@ -1,0 +1,12 @@
+D:\Programmazione\repos\SettingManager\SettingManager\obj\Debug\net6.0\SettingsManager.csproj.AssemblyReference.cache
+D:\Programmazione\repos\SettingManager\SettingManager\obj\Debug\net6.0\SettingsManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmazione\repos\SettingManager\SettingManager\obj\Debug\net6.0\SettingsManager.AssemblyInfoInputs.cache
+D:\Programmazione\repos\SettingManager\SettingManager\obj\Debug\net6.0\SettingsManager.AssemblyInfo.cs
+D:\Programmazione\repos\SettingManager\SettingManager\obj\Debug\net6.0\SettingsManager.csproj.CoreCompileInputs.cache
+D:\Programmazione\repos\SettingManager\SettingManager\bin\Debug\net6.0\SettingsManager.deps.json
+D:\Programmazione\repos\SettingManager\SettingManager\bin\Debug\net6.0\SettingsManager.dll
+D:\Programmazione\repos\SettingManager\SettingManager\bin\Debug\net6.0\SettingsManager.pdb
+D:\Programmazione\repos\SettingManager\SettingManager\obj\Debug\net6.0\SettingsManager.dll
+D:\Programmazione\repos\SettingManager\SettingManager\obj\Debug\net6.0\refint\SettingsManager.dll
+D:\Programmazione\repos\SettingManager\SettingManager\obj\Debug\net6.0\SettingsManager.pdb
+D:\Programmazione\repos\SettingManager\SettingManager\obj\Debug\net6.0\ref\SettingsManager.dll
